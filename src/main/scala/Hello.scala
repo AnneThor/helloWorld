@@ -4,7 +4,7 @@ object Hello {
     println("hello world!")
 
     val today = GoodDay("Monday")
-
+    val tomorrow = GoodDay("Tuesday")
   }
 
 }
